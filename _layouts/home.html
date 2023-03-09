@@ -14,11 +14,9 @@ layout: default
     {%- for event in site.events -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span>{{ event.date | date: date_format }}</span>
+      <span>{{ event.date | date: date_format }}, {{ event.time }}</span>
       <h3>
-        <a href="{{ event.url | relative_url }}">
-          {{ event.title | escape }}
-        </a>
+        <a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a>
       </h3>
       {{ event.excerpt }}
     </li>
