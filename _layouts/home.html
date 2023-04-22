@@ -11,20 +11,25 @@ layout: default
 
   <h2>Events</h2>
   <ul>
-    {%- assign todays_date = 'now' | date: '%s' %}
+    {%- assign todays_date = 'now' | date: '%s' -%}
     {%- for event in site.events -%}
-      {%- assign event_date = event.date | date: '%s' %}
-      {%- if todays_date < event_date %}
+      {%- assign event_date = event.date | date: '%s' -%}
+      {%- if todays_date < event_date -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span>{{ event.date | date: date_format }}, {{ event.time }}</span>
+        {%- assign date_format =
+              site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span>
+          {{ event.date | date: date_format }},
+          {{ event.time }} ({{ event.title | escape }})
+        </span>
         <h3>
-          <a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a>
+          <a href="{{ event.url | relative_url }}">
+            {{ event.sub_title | escape }}
+          </a>
         </h3>
-        <h4>{{ event.sub_title }}</h4>
         {{ event.excerpt }}
       </li>
-      {%- endif %}
+      {%- endif -%}
     {%- endfor -%}
   </ul>
 
@@ -33,7 +38,8 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {%- assign date_format =
+              site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
@@ -47,7 +53,9 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe">subscribe
+      <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
+    </p>
   {%- endif -%}
 
 </div>
