@@ -1,15 +1,12 @@
 ---
 layout: event
-sub_title: Open Gathering "Gifts of the Season"
-author: Theresa Cunningham
+sub_title: Open Gathering
+author: Liz Lescault and Elena Khazanova
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
 
-new, important information / read announcement carefully<br>
-Open Gathering will be held downstairs (street level) in the conference
-room at Seekers.<br>
-Please enter through the front door.
+new, important information / read announcement carefully
 
 *limited parking in back of Seekers, free parking at metro across the street.*
 

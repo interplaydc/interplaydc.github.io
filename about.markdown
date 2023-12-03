@@ -26,7 +26,7 @@ potential.
 **InterPlay** is used by leaders in community outreach with homeless shelters,
 retirement facilities, prisons, churches, therapy and much more.
 
-**Interplay** was founded by Cynthia Winton-Henry and Phil Porter more than
+**InterPlay** was founded by Cynthia Winton-Henry and Phil Porter more than
 thirty years ago and has spread around the world becoming a **community of
 people around the world** who speak the shared language of play.
 
