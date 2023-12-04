@@ -1,0 +1,10 @@
+---
+---
+/* https://talk.jekyllrb.com/t/noobie-changing-font-variables/6277/2#solution-3 */
+/* Override theme defaults */
+$base-font-size:   17px !default;
+
+/* load _sass/minima.scss */
+@import "minima";
+
+/* Put any custom CSS here */
