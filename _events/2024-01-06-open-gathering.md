@@ -6,11 +6,11 @@ time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
 
+*Come for the whole day or however long it suits you.*
+
 new, important information / read announcement carefully
 
 *limited parking in back of Seekers, free parking at metro across the street.*
-
-*Come for the whole day or however long it suits you.*
 
 __Love offerings accepted:  $25 for the day<br>
 cash, check or
@@ -19,7 +19,7 @@ cash, check or
 __Or pay annual dues of $150.00 (payment by check preferred)<br>
 Dues January 2024 - December 31, 2024__
 
-__Its time to pay your annual dues if you choose that option.__
+__It's time to pay your annual dues if you choose that option.__
 
 <h3>IMPORTANT ANNOUNCEMENT / Covid Testing:</h3>
 

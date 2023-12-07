@@ -22,7 +22,7 @@ cash, check or
 __Or pay annual dues of $150.00 (payment by check preferred)<br>
 Dues January 2024 - December 31, 2024__
 
-__Its time to pay your annual dues if you choose that option.__
+__It's time to pay your annual dues if you choose that option.__
 
 <h3>IMPORTANT ANNOUNCEMENT / Covid Testing:</h3>
 
