@@ -1,16 +1,15 @@
 ---
 layout: event
-sub_title: Open Gathering
-author: Liz Lescault and Elena Khazanova
+sub_title: Gifts of the Senses
+author: Elena Khazanova and Liz Lescault
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
 
 *Come for the whole day or however long it suits you.*
 
-new, important information / read announcement carefully
-
-*limited parking in back of Seekers, free parking at metro across the street.*
+*Enter through back door, limited parking in back<br>
+free parking at metro across the street.*
 
 __Love offerings accepted:  $25 for the day<br>
 cash, check or
