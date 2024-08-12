@@ -1,10 +1,12 @@
 ---
 layout: event
 sub_title: "Open Gathering"
-author: Kate and Billy Amoss
+author: Liz Lescault and Mike Perz
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
+
+Finding Your Intuition
 
 *Come for the whole day or however long it suits you.*
 

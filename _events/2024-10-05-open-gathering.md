@@ -1,10 +1,12 @@
 ---
 layout: event
 sub_title: "Open Gathering"
-author: Kate and Billy Amoss
-time: 10am - 4pm
+author: TBA 10am-12:30pm; Bill Jenkins World of Music 2-3:30pm
+time: 10am - 3:30pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
+
+Join us for Bill Jenkins and his amazing collection of musical instruments from around the world.  Bill will demonstrate all the ways we make sound and music, using examples from every continent. Participants will be invited to play the instruments.
 
 *Come for the whole day or however long it suits you.*
 
