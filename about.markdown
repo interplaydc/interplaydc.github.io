@@ -4,45 +4,56 @@ title: About
 permalink: /about/
 ---
 
-# What is InterPlay?
+**InterPlay is an active, creative way to unlock the wisdom of the body for
+everyone and every body.**
 
-InterPlay is based on a series of easy, fun and engaging incremental "forms" or
-ways of interacting with each other that lead participants to movement, telling
-their own stories, and to song.  Firmly based in affirmation and looking for the
-good.  InterPlay offers a pathway for self discovery.  Each person decides how
-much or how little to do based on their own comfort level.
+<img src="/assets/images/About.jpg" style="float: right" width="400">
 
-**InterPlay** celebrates the creativity in every one of us and reignites the
-playful parts of ourselves.  We learn to expand our personal awareness and grow
-our powers of noticing and of bearing witness.  InterPlay explores the language
-of play in a deep and powerful way.
+**InterPlay** celebrates the creativity in every one of us and reminds us to
+play and embrace life, expand our personal awareness, and discover our full
+potential. InterPlay encourages new ways to communicate and tell your own
+story. Leaders guide group participants through a series of playful
+storytelling, movement, and sound exercises in incremental steps.
+
+Each person decides how much or how little to do based on their own comfort
+level.<br>
+No previous experience required.
 
 **InterPlay** is a community of people around the world who speak the shared
-language of body wisdom, creativity and play.  InterPlay practices help build
-communities and relationships that live and flourish in everyday life.  It
-offers learning in personal and team dynamics, leadership and personal
-potential.
+language of body wisdom, creativity, and play. InterPlay practices help build
+communities and relationships that live and flourish in everyday life.
 
-**InterPlay** is used by leaders in community outreach with homeless shelters,
-retirement facilities, prisons, churches, therapy and much more.
+What’s happening nationally and internationally visit
+[**InterPlay.org**](https://InterPlay.org){:target="_blank"}
 
-**InterPlay** was founded by Cynthia Winton-Henry and Phil Porter more than
-thirty years ago and has spread around the world becoming a **community of
-people around the world** who speak the shared language of play.
+**InterPlay DC** serves the entire DC Metro region and includes:
 
-*Come and join us!*
+**Come and join us for 1st Saturday Open Gatherings or get more involved.**
 
-Look for InterPlay DC *events *including day long Open Gatherings, Life
-Practice, Leadership Training, retreats and workshops.
+The **all day Open Gathering** meets first Saturdays of the month from September
+through June at Seekers Church in DC. Come for the full day or as much time as
+you have to spend.
 
-Follow us or like us - InterPlayDC on Facebook
+To signup for announcements email **<dcinterplay@gmail.com>**<br>
+Announcements include information about the following offerings:
 
-To find out more about InterPlay visit the national website
-[InterPlay.org](https://www.interplay.org){:target="_blank"}
+[**Life Practice Program**](https://InterPlay.org/index.cfm/go/lifepractice:home){:target="_blank"}
+at Seekers Church in DC<br>
+contact Doug Farnum<br>
+or Monisha Mittal at **<minicunning@gmail.com>**
 
-Open Gathering, Life Practice and some special events are held across from
-Takoma METRO (free parking at Metro Station on weekends).  In the *Seekers
-Church sanctuary*.  Entrance in back of building.  Knock loudly if door is
-locked.
+**Secrets of InterPlay Retreat** possibly in November 2024
 
-See announcements for locations of special Workshops and Events
+[**Annual Women's Retreat**](https://InterPlay.org/index.cfm/go/events:event/happening_id/3179){:target="_blank"}
+at Wellspring Retreat Center,<br>
+Germantown MD in October
+
+[**Annual Men's Retreat**](https://InterPlay.org/index.cfm/go/events:event/happening_id/1815){:target="_blank"}
+at Wellspring Retreat Center,<br>
+Germantown MD in October
+
+**Annual Retreat** at Wellspring Retreat Center in May 2025<br>
+contact Kate Amoss **<katamoss@gmail.com>**
+
+[**Leadership Training Program**](https://InterPlay.org/index.cfm/go/leadertraining:home){:target="_blank"}<br>
+To be scheduled in DC metro region sometime in 2025
