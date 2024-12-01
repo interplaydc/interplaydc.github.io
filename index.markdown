@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![The San Juan Mountains are beautiful!](/assets/images/interplay-logo-dc.png "InterPlay DC logo")
+![InterPlay DC logo](/assets/images/interplay-logo-dc.png "InterPlay DC logo")

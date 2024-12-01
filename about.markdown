@@ -53,7 +53,7 @@ at Wellspring Retreat Center,<br>
 Germantown MD in October
 
 **Annual Retreat** at Wellspring Retreat Center in May 2025<br>
-contact Kate Amoss **<katamoss@gmail.com>**
+contact Kate Amoss at **<katamoss@gmail.com>**
 
 [**Leadership Training Program**](https://InterPlay.org/index.cfm/go/leadertraining:home){:target="_blank"}<br>
 To be scheduled in DC metro region sometime in 2025
