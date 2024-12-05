@@ -6,5 +6,4 @@ time: 7pm to Oct 1, 1:30pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
 
-<a href="https://interplay.org/index.cfm/go/events:event/happening_id/3091"
-   target="_blank">For more information click here</a>
+[For more information click here](https://InterPlay.org/index.cfm/go/events:event/happening_id/3091){:target="_blank"}

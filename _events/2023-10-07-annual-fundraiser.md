@@ -19,5 +19,4 @@ evening of live music and dancing.
 **Join us for a night of fun and generosity.**
 Proceeds support local leadership and scholarships.
 
-<a href="https://interplay.org/index.cfm/go/events:event/happening_id/3126"
- target="_blank">For more information click here</a>
+[For more information click here](https://InterPlay.org/index.cfm/go/events:event/happening_id/3126){:target="_blank"}
