@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![InterPlay DC logo](/assets/images/interplay-logo-dc.png "InterPlay DC logo")
+![InterPlay DC logo](/assets/images/InterPlay-DC-logo.png "InterPlay DC logo")
