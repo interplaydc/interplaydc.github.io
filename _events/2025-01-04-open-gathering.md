@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: "How Our Bodies Absorb the Good"
-author: Elena Khazanova
+author: Elena Khazanova and Mike Perz
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---

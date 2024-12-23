@@ -4,8 +4,6 @@ title:  "Contact Us"
 permalink: /contact-us/
 ---
 
-Contact Us
-
 To sign up for InterPlay DC announcements for Open Gatherings, Workshops, and
 Events contact Liz Lescault at <dcinterplay@gmail.com>
 
