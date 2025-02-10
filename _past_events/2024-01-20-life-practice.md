@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: Life Practice
-author: Monisha Mittal, Douglass Farnum, and Kate Amoss
+leader: Monisha Mittal, Douglass Farnum, and Kate Amoss
 time: 10am to 5:30pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---

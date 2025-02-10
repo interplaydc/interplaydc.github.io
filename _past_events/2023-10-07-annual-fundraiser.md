@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: Annual Fundraiser
-author: Kate Amoss, Douglass Farnum, Kirk Johnson-Weider, and Liz Lescault
+leader: Kate Amoss, Douglass Farnum, Kirk Johnson-Weider, and Liz Lescault
 date: 2023-10-07 18:30
 time: 6:30pm - 9:30pm
 location: "<a href='https://www.elgolforestaurant.com/'

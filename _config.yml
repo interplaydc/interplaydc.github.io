@@ -38,6 +38,7 @@ plugins:
 collections:
   events:
     output: true
+  leaders:
 future: true
 
 # Exclude from processing.

@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: "Every Picture Tells a Story: Exploring our Personal Imagery"
-author: Karen Hatch and Liz Lescault
+leader: Karen Hatch and Liz Lescault
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: '"I See You" - Reflections of What We See / InterPlay Meets Photography'
-author: Karen Hatch
+leader: Karen Hatch
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---

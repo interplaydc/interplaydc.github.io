@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: InterPlay Fun-Raiser
-author: Robin Carne’s Band "Close Enough!"
+leader: Robin Carne’s Band "Close Enough!"
 date: 2024-09-28 18:30
 time: 6:30pm - 9:30pm
 location: "<a href='https://www.elgolforestaurant.com/'

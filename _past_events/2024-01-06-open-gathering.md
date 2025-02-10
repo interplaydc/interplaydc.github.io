@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: Gifts of the Senses
-author: Elena Khazanova and Liz Lescault
+leader: Elena Khazanova and Liz Lescault
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---

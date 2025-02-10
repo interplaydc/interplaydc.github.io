@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: "Open Gathering"
-author: TBA 10am-12:30pm; Bill Jenkins World of Music 2-3:30pm
+leader: TBA 10am-12:30pm; Bill Jenkins World of Music 2-3:30pm
 time: 10am - 3:30pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: Open Gathering "Gifts of the Season"
-author: Theresa Cunningham
+leader: Theresa Cunningham
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---

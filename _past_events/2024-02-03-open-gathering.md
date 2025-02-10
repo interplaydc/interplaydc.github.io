@@ -1,7 +1,7 @@
 ---
 layout: event
 sub_title: Receive the Day
-author: John Peterson and Kirk Johnson-Weider
+leader: John Peterson and Kirk Johnson-Weider
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
