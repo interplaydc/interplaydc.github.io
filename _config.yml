@@ -39,7 +39,15 @@ collections:
   events:
     output: true
   leaders:
+    output: true
 future: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "leaders"
+    values:
+      layout: "leader"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
