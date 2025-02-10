@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: The Annual InterPlay Men's Retreat
 leader: Billy Amoss and Douglass Farnum
 time: 6pm - Oct 27, 1:30pm

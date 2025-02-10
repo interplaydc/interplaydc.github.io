@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Untensive
 leader: ...
 time: 6pm - May 5, 1:30pm

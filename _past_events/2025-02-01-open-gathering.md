@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: "Being Good Enough is Plenty"
 leader: John Peterson and Kirk Johnson-Weider
 time: 10am - 4pm

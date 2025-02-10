@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Open Gathering
 leader: ...
 time: 10am - 4pm

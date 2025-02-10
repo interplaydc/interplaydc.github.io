@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Follow the Heart
 leader: Liz Lescault and Mike Perz
 time: 10am - 4pm

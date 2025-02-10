@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Open Gathering
 leader: Doug Farnum
 date: 2023-10-07 10:00

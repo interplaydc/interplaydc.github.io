@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: "Playing with Joy"
 leader: Theresa Cunningham
 time: 10am - 4pm

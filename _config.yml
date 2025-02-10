@@ -45,6 +45,16 @@ future: true
 defaults:
   - scope:
       path: ""
+      type: "events"
+    values:
+      layout: "event"
+  - scope:
+      path: ""
+      type: "_past_events"
+    values:
+      layout: "event"
+  - scope:
+      path: ""
       type: "leaders"
     values:
       layout: "leader"

@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: InterPlay Fun-Raiser
 leader: Robin Carne’s Band "Close Enough!"
 date: 2024-09-28 18:30

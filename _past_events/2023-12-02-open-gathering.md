@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Open Gathering "Gifts of the Season"
 leader: Theresa Cunningham
 time: 10am - 4pm

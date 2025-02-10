@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: "Every Picture Tells a Story: Exploring our Personal Imagery"
 leader: Karen Hatch and Liz Lescault
 time: 10am - 4pm

@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: 
 leader: Kathyrn Sparks-Carpenter and Anna Gilcher
 time: 10am - 4pm

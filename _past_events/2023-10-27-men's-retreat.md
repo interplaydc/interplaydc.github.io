@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Inspiration in Challenging Times
 leader: Billy Amoss and Douglass Farnum
 time: 6pm - Oct 29, 1:30pm

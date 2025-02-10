@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Gifts of the Senses
 leader: Elena Khazanova and Liz Lescault
 time: 10am - 4pm

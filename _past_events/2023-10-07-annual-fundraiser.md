@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Annual Fundraiser
 leader: Kate Amoss, Douglass Farnum, Kirk Johnson-Weider, and Liz Lescault
 date: 2023-10-07 18:30

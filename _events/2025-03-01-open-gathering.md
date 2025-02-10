@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: '"I See You" - Reflections of What We See / InterPlay Meets Photography'
 leader: Karen Hatch
 time: 10am - 4pm

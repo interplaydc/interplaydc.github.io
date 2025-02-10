@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Life Practice
 leader: Monisha Mittal, Douglass Farnum, and Kate Amoss
 time: 10am to 5:30pm

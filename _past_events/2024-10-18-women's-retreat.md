@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: InterPlay Women’s Retreat
 leader: Ginny Going and Kate Amoss
 time: 6pm - Oct 20, 1:30pm

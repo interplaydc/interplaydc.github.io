@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: "Open Gathering"
 leader: Liz Lescault and Mike Perz
 time: 10am - 4pm

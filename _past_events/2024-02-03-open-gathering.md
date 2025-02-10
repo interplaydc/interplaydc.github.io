@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: Receive the Day
 leader: John Peterson and Kirk Johnson-Weider
 time: 10am - 4pm

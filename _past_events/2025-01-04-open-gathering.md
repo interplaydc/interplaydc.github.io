@@ -1,5 +1,4 @@
 ---
-layout: event
 sub_title: "How Our Bodies Absorb the Good"
 leader: Elena Khazanova and Mike Perz
 time: 10am - 4pm
