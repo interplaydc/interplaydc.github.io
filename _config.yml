@@ -50,7 +50,7 @@ defaults:
       layout: "event"
   - scope:
       path: ""
-      type: "_past_events"
+      type: "past_events"
     values:
       layout: "event"
   - scope:
