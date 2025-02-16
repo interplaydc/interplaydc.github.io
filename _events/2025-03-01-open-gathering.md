@@ -1,11 +1,17 @@
 ---
-sub_title: '"I See You" - Reflections of What We See / InterPlay Meets Photography'
+sub_title: '"I See You": Reflections of What We See - InterPlay Meets Photography'
 leader: Karen Hatch
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
 
-<p/>
+Come InterPlay with some of your favorite photographs.
+
+We’ll apply InterPlay forms and use our voices to move and lean into sound and
+stillness as we look at our images with body wisdom.
+
+How are our images meaningful and just how, and why do we create them?
+What feelings arise when we “see” them again?
 
 ***To enter the building, please go all the way up the driveway next to Seekers
 Church, and use the back door that is on the wide porch.<br>
