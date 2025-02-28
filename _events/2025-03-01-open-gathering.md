@@ -5,7 +5,8 @@ time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
 
-Come InterPlay with some of your favorite photographs.
+Come InterPlay with some of your favorite photographs.<br>
+(Bring your smartphones.)
 
 We’ll apply InterPlay forms and use our voices to move and lean into sound and
 stillness as we look at our images with body wisdom.

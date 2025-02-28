@@ -39,7 +39,7 @@ Announcements include information about the following offerings:
 
 [**Life Practice Program**](https://InterPlay.org/index.cfm/go/lifepractice:home){:target="_blank"}
 at Seekers Church in DC<br>
-contact Doug Farnum<br>
+contact Doug Farnum at **<lightdpf-1@yahoo.com>**<br>
 or Monisha Mittal at **<minicunning@gmail.com>**
 
 **Secrets of InterPlay Retreat** possibly in November 2024
