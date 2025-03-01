@@ -5,6 +5,7 @@ position: Life Practice Program Leader / Certified InterPlay Leader
 ---
 
 Since retiring, play deprived Douglass works hard at doing nothing.
+
 He finds that InterPlay complements his meditation
 and Non Violent Communication (NVC) practices.
 Doug co-leads life practice and men's retreat weekends in Washington DC.

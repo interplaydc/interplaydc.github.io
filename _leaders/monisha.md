@@ -6,6 +6,7 @@ position: Life Practice Program Leader / Certified InterPlay Leader
 
 Monisha Mittal is a **Certified Leader (CL)** and
 **Life Practice Program Leader (LPL)** in the Washington DC region.
+
 Since 2018, InterPlay and a regular Dance Chapel practice has been an integral
 part of her Being and Becoming.
 She proudly served as a Dance Chaplain for four years since the pandemic which

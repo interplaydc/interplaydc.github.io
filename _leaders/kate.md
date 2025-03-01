@@ -6,6 +6,7 @@ position: Life Practice Program Leader / Certified InterPlay Leader
 
 Kate Amoss, MA, LCPC, is an InterPlay Teacher and Professional Counselor
 in private practice.
+
 Trained in archetypal depth psychology, she has an abiding curiosity in all
 things hidden below surfaces -- deep roots, bedrock truths, neuro-biological
 processes, and ancestral antecedents. For her, InterPlay has offered the best
