@@ -22,6 +22,4 @@ InterPlay Life Practice Program in Washington DC.
 
 **Email:** <katamoss@gmail.com>
 
-**Website:** <a href="https://www.candlewoodcounseling.com/" target="_blank">candlewoodcounseling.com</a>
-
 **Locale:** Silver Spring MD

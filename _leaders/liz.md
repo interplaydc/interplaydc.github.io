@@ -1,7 +1,8 @@
 ---
 short_name: liz
 name: Liz Lescault
-position: Certified InterPlay Leader 
+position: Certified InterPlay Leader
+website: <a href="https://LizLescault.com/" target="_blank">LizLescault.com</a>
 ---
 
 Liz is coordinator of the DC InterPlay Open Gathering Program and works on
@@ -21,7 +22,5 @@ dancing, and kayaking.
 **Phone:** (301) 772-9340
 
 **Email:** <lizlescault@gmail.com> and <dcinterplay@gmail.com>
-
-**Website:** <a href="https://www.lizlescault.com/" target="_blank">lizlescault.com</a>
 
 **Locale:** Cheverly MD

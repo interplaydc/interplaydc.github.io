@@ -2,6 +2,7 @@
 short_name: monisha
 name: Monisha Mittal
 position: Life Practice Program Leader / Certified InterPlay Leader
+website: <a href="https://MonishaMittal.com/" target="_blank">MonishaMittal.com</a>
 ---
 
 Monisha Mittal is a **Certified Leader (CL)** and
@@ -19,6 +20,10 @@ She is grateful to InterPlay for awakening her authenticity, for the exponential
 connection and laughter its given her, and for supporting her daily recovery as
 a recovering overachiever.
 
-**Locale:** Fairfax VA
+![Monisha Mittal](/assets/images/MonishaMittal.png "Monisha Mittal"){: style="float: right"}
 
-[www.MonishaMittal.com](https://MonishaMittal.com/){:target="_blank"}
+**Phone:** (703) 964-7357
+
+**Email:** <monishamittal99@gmail.com>
+
+**Locale:** Fairfax VA
