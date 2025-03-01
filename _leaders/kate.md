@@ -3,7 +3,6 @@ short_name: kate
 name: Kate Amoss
 position: Life Practice Program Leader / Certified InterPlay Leader
 ---
-![Kate Amoss](/assets/images/Kate-Amoss.jpg "Kate Amoss"){: style="float: right"}
 
 Kate Amoss, MA, LCPC, is an InterPlay Teacher and Professional Counselor
 in private practice.
@@ -15,6 +14,8 @@ and our world.
 She has decades of experience leading workshops, performances, and mentoring
 other InterPlayers. She co-founded The Big Yes Performance Group and co-led the
 InterPlay Life Practice Program in Washington DC.
+
+![Kate Amoss](/assets/images/Kate-Amoss.jpg "Kate Amoss"){: style="float: right"}
 
 **Phone:** (301) 219-1223
 
