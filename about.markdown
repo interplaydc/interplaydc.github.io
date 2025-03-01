@@ -42,30 +42,23 @@ you have to spend.
 To signup for announcements email **<dcinterplay@gmail.com>**<br>
 Announcements include information about the following offerings:
 
-[**Life Practice Program
-**](https://InterPlay.org/index.cfm/go/lifepractice:home){:target="_blank"}
+[**Life Practice Program**](https://InterPlay.org/index.cfm/go/lifepractice:home){:target="_blank"}
 at Seekers Church in DC<br>
 contact Doug Farnum at **<lightdpf-1@yahoo.com>**<br>
 or Monisha Mittal at **<minicunning@gmail.com>**
 
 **Secrets of InterPlay Retreat** possibly in November 2024
 
-[**Annual Women's Retreat
-**](https://InterPlay.org/index.cfm/go/events:event/happening_id/3179){:
-target="_blank"}
+[**Annual Women's Retreat**](https://InterPlay.org/index.cfm/go/events:event/happening_id/3179){:target="_blank"}
 at Wellspring Retreat Center,<br>
 Germantown MD in October
 
-[**Annual Men's Retreat
-**](https://InterPlay.org/index.cfm/go/events:event/happening_id/1815){:
-target="_blank"}
+[**Annual Men's Retreat**](https://InterPlay.org/index.cfm/go/events:event/happening_id/1815){:target="_blank"}
 at Wellspring Retreat Center,<br>
 Germantown MD in October
 
 **Annual Retreat** at Wellspring Retreat Center in May 2025<br>
 contact Kate Amoss at **<katamoss@gmail.com>**
 
-[**Leadership Training Program
-**](https://InterPlay.org/index.cfm/go/leadertraining:home){:target="_
-blank"}<br>
+[**Leadership Training Program**](https://InterPlay.org/index.cfm/go/leadertraining:home){:target="_blank"}<br>
 To be scheduled in DC metro region sometime in 2025
