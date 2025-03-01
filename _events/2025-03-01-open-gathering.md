@@ -36,7 +36,7 @@ part of it. Participants are "at choice" whether to contribute or may simply
 witness the entire time. The offering time is oriented more toward experienced
 InterPlayers, so newcomers may wish to wait until they have experienced a few
 InterPlay gatherings before coming to the Offerings.  However, participants who
-are newer to Interplay may be inspired by the wide variety of offerings,
+are newer to InterPlay may be inspired by the wide variety of offerings,
 play-ideas and improvisational scenarios that more experienced InterPlayers may
 bring up. Newcomers are encouraged and invited to experience the essence of play
 that each Open Gathering explores!
