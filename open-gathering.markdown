@@ -14,6 +14,8 @@ various times. The organization and facilitating of the Open Gathering is all
 accomplished by dedicated volunteers. We have various expenses including rent,
 covered by the fees paid by attendees for the day.
 
+<img src="/assets/images/About.jpg" style="float: right" width="400">
+
 The Open Gathering starts promptly at 10 am and breaks for lunch at 12:30 pm.
 The morning and the first 45 minutes of the afternoon are led by different
 certified leaders, who introduce a theme for the day. We currently have 12
