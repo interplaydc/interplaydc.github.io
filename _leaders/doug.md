@@ -1,7 +1,7 @@
 ---
 short_name: doug
 name: Doug Farnum
-position: Leader
+position: Life Practice Program Leader / Certified InterPlay Leader
 ---
 
 Since retiring, play deprived Douglass works hard at doing nothing.

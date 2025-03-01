@@ -1,16 +1,25 @@
 ---
 short_name: kate
 name: Kate Amoss
-position: Leader
+position: Life Practice Program Leader / Certified InterPlay Leader
 ---
 ![Kate Amoss](/assets/images/Kate-Amoss.jpg "Kate Amoss"){: style="float: right"}
 
-Kate is deeply invested in many paths that bring healing and wholeness to individuals and groups. She is a licensed clinical counselor in private practice and is grounded in depth psychology, expressive arts, sandtray therapy, and the energy healing of EMDR. She is one of the founders of InterPlay DC. Together with her husband, Billy, she has led the InterPlay Life Practice Program and Leadership Program for over ten years and led numerous retreats in the region. She was also a member of the InterPlay’s National Board.
+Kate Amoss, MA, LCPC, is an InterPlay Teacher and Professional Counselor
+in private practice.
+Trained in archetypal depth psychology, she has an abiding curiosity in all
+things hidden below surfaces -- deep roots, bedrock truths, neuro-biological
+processes, and ancestral antecedents. For her, InterPlay has offered the best
+toolbox of forms and practices with which to excavate the mysteries of ourselves
+and our world.
+She has decades of experience leading workshops, performances, and mentoring
+other InterPlayers. She co-founded The Big Yes Performance Group and co-led the
+InterPlay Life Practice Program in Washington DC.
 
-**Phone:** 301-593-3010
+**Phone:** (301) 219-1223
 
 **Email:** <katamoss@gmail.com>
 
 **Website:** <a href="https://www.candlewoodcounseling.com/" target="_blank">candlewoodcounseling.com</a>
 
-**Locale:** Silver Spring, MD
+**Locale:** Silver Spring MD
