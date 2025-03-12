@@ -11,6 +11,8 @@ and Non Violent Communication (NVC) practices.
 Doug co-leads life practice and men's retreat weekends in Washington DC.
 With more practice he hopes to have fun playing.
 
+![Doug Farnum](/assets/images/Doug-Farnum.jpg "Doug Farnum"){: style="float: right"}
+
 **Email:** <lightdpf-1@yahoo.com>
 
 **Locale:** Bethesda MD
