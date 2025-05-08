@@ -13,9 +13,8 @@ title: Events
       {{ event.time }} ({{ event.title }})
     </span>
     <h2>
-      <a href="{{ event.url }}">
-        {{ event.sub_title }} led by {{ event.leader }}
-      </a>
+      <a href="{{ event.url }}">{{ event.sub_title }}</a>
+      led by {{ event.leader }}
     </h2>
     {{ event.excerpt }}
   </li>

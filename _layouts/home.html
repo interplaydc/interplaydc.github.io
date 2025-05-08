@@ -21,8 +21,9 @@ layout: default
         </span>
         <h3>
           <a href="{{ event.url | relative_url }}">
-            {{ event.sub_title | escape }} led by {{ event.leader }}
+            {{ event.sub_title | escape }}
           </a>
+          led by {{ event.leader }}
         </h3>
         {{ event.excerpt }}
       </li>
