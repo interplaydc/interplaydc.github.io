@@ -6,3 +6,11 @@ layout: default
 
 {{ content }}
 {{ page.website }}
+
+<h2>Events</h2>
+<ul>
+  {% assign filtered_events = site.events | where: 'leader', page.short_name %}
+  {% for event in filtered_events %}
+  <li><a href="{{ event.url }}">{{ event.sub_title }}</a></li>
+  {% endfor %}
+</ul>
