@@ -1,6 +1,6 @@
 ---
 sub_title: Celebrating Ourselves through Movement and Music
-leader: liz
+leaders: [liz]
 time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---

@@ -4,10 +4,11 @@ layout: default
 <h1>{{ page.title }}</h1>
 <h2>{{ page.sub_title }}</h2>
 <h3>
-  {% assign leader = site.leaders | where: 'short_name', page.leader | first %}
-  {% if leader %}
-  led by <a href="{{ leader.url }}">{{ leader.name }}</a>
-  {% endif %}
+  led by
+  {% for short_name in page.leaders %}
+  {% assign leader = site.leaders | where: 'short_name', short_name | first %}
+  <a href="{{ leader.url }}">{{ leader.name }}</a>
+  {% endfor %}
 </h3>
 <p>{{ page.date | date_to_string }}, {{ page.time }}</p>
 <p>{{ page.location }}</p>

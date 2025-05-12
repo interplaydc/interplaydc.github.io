@@ -40,6 +40,8 @@ collections:
     output: true
   leaders:
     output: true
+  past_events:
+    output: true
 future: true
 
 defaults:
