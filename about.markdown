@@ -7,15 +7,12 @@ permalink: /about/
 **InterPlay is an active, creative way to unlock the wisdom of the body for
 everyone and every body.**
 
-**InterPlay** celebrates the creativity in every one of us and reminds us to
-play and embrace life, expand our personal awareness, and discover our full
-potential. InterPlay encourages new ways to communicate and tell your own
-story. Leaders guide group participants through a series of playful
-storytelling, movement, and sound exercises in incremental steps.
-
-Each person decides how much or how little to do based on their own comfort
-level.<br>
-No previous experience required.
+*“Twenty-two years ago I found InterPlay. And it was exciting and scary because
+of the invitation to just be myself, be applauded and affirmed and also to learn
+how there is wisdom inside my body that I can pay attention to and to be in the
+heart of a community of people playing, laughing, crying, telling their stories,
+taking the stuff of our lives which is hard, and sometimes creating art with
+it.” — Ginny Going*
 
 <iframe style="float: right" width="560" height="315"
 src="https://www.youtube.com/embed/PmqM2Uqd-p0?si=cZju9EzD4Di-yZ08"
@@ -24,41 +21,29 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
 picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
 allowfullscreen></iframe>
 
-**InterPlay** is a community of people around the world who speak the shared
-language of body wisdom, creativity, and play. InterPlay practices help build
-communities and relationships that live and flourish in everyday life.
+InterPlay brings play into our lives and reminds us that moving our bodies and
+telling our personal stories reconnects us to joy and self-discovery. As we
+embrace our creative expression, we develop our inner authority. We actively
+experience play through noticing, witnessing, stillness, movement, storytelling,
+and vocalization. At its foundation, InterPlay fosters a generosity of spirit,
+and we practice seeing the best in others.
 
-What’s happening nationally and internationally visit
-[**InterPlay.org**](https://InterPlay.org){:target="_blank"}
+As children, we took every chance to be playful.  We had no fear of judgment
+about our curiosity and inventiveness. As we age we stick with what we are
+comfortable with and what we think is appropriate. Play reduces stress and helps
+us access subtle thoughts and emotions, so it is a cathartic means of
+self-exploration.  By applying the principles of non-judgment and refraining
+from the pursuit of perfection, we enjoy the process rather than the product and
+embrace our imagination.
 
-**InterPlay DC** serves the entire DC Metro region and includes:
+Each person chooses how much or how little to take part in based on their own
+comfort level.
 
-**Come and join us for 1st Saturday Open Gatherings or get more involved.**
+<p style="text-align: center;">
+<b>All are welcome. No previous experience is required!</b>
+</p>
 
-The **all day Open Gathering** meets first Saturdays of the month from September
-through June at Seekers Church in DC. Come for the full day or as much time as
-you have to spend.
-
-To signup for announcements email **<dcinterplay@gmail.com>**<br>
-Announcements include information about the following offerings:
-
-[**Life Practice Program**](https://InterPlay.org/index.cfm/go/lifepractice:home){:target="_blank"}
-at Seekers Church in DC<br>
-contact Doug Farnum at **<lightdpf-1@yahoo.com>**<br>
-or Monisha Mittal at **<minicunning@gmail.com>**
-
-**Secrets of InterPlay Retreat** possibly in November 2024
-
-[**Annual Women's Retreat**](https://InterPlay.org/index.cfm/go/events:event/happening_id/3179){:target="_blank"}
-at Wellspring Retreat Center,<br>
-Germantown MD in October
-
-[**Annual Men's Retreat**](https://InterPlay.org/index.cfm/go/events:event/happening_id/1815){:target="_blank"}
-at Wellspring Retreat Center,<br>
-Germantown MD in October
-
-**Annual Retreat** at Wellspring Retreat Center in May 2025<br>
-contact Kate Amoss at **<katamoss@gmail.com>**
-
-[**Leadership Training Program**](https://InterPlay.org/index.cfm/go/leadertraining:home){:target="_blank"}<br>
-To be scheduled in DC metro region sometime in 2025
+<p style="text-align: center;">
+InterPlay is a non-denominational group that resists labels and allegiance to
+any particular belief or orientation.
+</p>
