@@ -5,7 +5,8 @@ time: 10am - 4pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
 
-*with live ensemble, "Voices of Earth" and singer songwriter Patri Gershanik*
+*and live ensemble "Voices of Earth" with singer-songwriter Patri Gershanik*
+![Movement and Music](/assets/images/2025-06-14.jpg "Movement and Music"){: style="float: right"}
 
 ***To enter the building, please go all the way up the driveway next to Seekers
 Church, and use the back door that is on the wide porch.<br>
