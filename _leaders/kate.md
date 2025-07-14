@@ -1,7 +1,7 @@
 ---
 short_name: kate
 name: Kate Amoss
-position: Life Practice Program Leader / Certified InterPlay Leader
+position: Founder of InterPlay DC
 ---
 
 Kate Amoss, MA, LCPC, is an InterPlay Teacher and Professional Counselor

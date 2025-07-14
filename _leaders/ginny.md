@@ -1,7 +1,7 @@
 ---
 short_name: ginny
 name: Ginny Going
-position: Life Practice Program Leader / Certified InterPlay Leader
+position: Founder of InterPlay NC
 website: <a href="https://www.InterPlayNC.org/" target="_blank">InterPlayNC.org</a>
 ---
 

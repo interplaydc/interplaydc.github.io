@@ -1,7 +1,7 @@
 ---
 short_name: Theresa
 name: Theresa Cunningham
-position: Certified InterPlay Leader
+position: Life Practice Program Leader
 ---
 
 Theresa Cunningham is an award-winning actor, singer, dancer, director, and

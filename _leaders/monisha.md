@@ -1,14 +1,14 @@
 ---
 short_name: monisha
 name: Monisha Mittal
-position: Life Practice Program Leader / Certified InterPlay Leader
+position: Life Practice Program Leader
 website: <a href="https://MonishaMittal.com/" target="_blank">MonishaMittal.com</a>
 ---
 
 Monisha Mittal is a **Certified Leader (CL)** and
 **Life Practice Program Leader (LPL)** in the Washington DC region.
 
-![Monisha Mittal](/assets/images/MonishaMittal.png "Monisha Mittal"){: style="float: right"}
+<img src="/assets/images/Monisha_cropped-scaled.webp" alt="Monisha Mittal" title="Monisha Mittal" width="300" style="float: right">
 
 Since 2018, InterPlay and a regular Dance Chapel practice has been an integral
 part of her Being and Becoming.

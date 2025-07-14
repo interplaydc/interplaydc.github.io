@@ -1,7 +1,7 @@
 ---
 short_name: mike
 name: Mike Perz
-position: Certified InterPlay Leader
+position: Website Administrator
 ---
 
 Mike used to try to gain love and acceptance by following the rules.

@@ -1,27 +1,20 @@
 ---
 short_name: liz
 name: Liz Lescault
-position: Certified InterPlay Leader
+position: Organizer - Open Gathering
 website: <a href="https://LizLescault.com/" target="_blank">LizLescault.com</a>
 ---
 
-Liz Lescault, a visual artist and sculptor, has practiced, exhibited and taught
-art for over 40 years.
+InterPlay is a growing influence in my way of showing up in the world.
 
 ![Liz Lescault](/assets/images/Liz-Lescault.jpg "Liz Lescault"){: style="float: right"}
 
-She founded the DC Open Gathering and continues to coordinate the Open Gathering
-for the DC InterPlay community which serves the metropolitan region.
+It has informed the ways I teach art, organize and lead. I am also inspired to bring InterPlay to the wider community through my volunteer work. My volunteer work includes working with elders with cognitive disabilities at Iona Senior Center and at Smith Center and the Healing Arts, which provides support for people affected by cancer.
 
-She is also a member of the DC InterPlay Organizing Body.
-She currently leads "Art Lab " for Smith Center and the Healing Arts.
-Formerly, Liz, was a hotline crisis counselor, for various suicide prevention
-lifelines and The Trevor Project providing help for LGBTQ youth in crisis and
-the Prince Georges County Homeless Hotline. Liz has also led InterPlay for
-elders with chronic illness and cognitive disabilities at Iona Senior Center in
-Washington DC.
+Liz Lescault, a visual artist and sculptor, has practiced, exhibited, and taught art for over 40 years.
+Liz founded the DC Open Gathering and continues to coordinate the Open Gathering for the DC region’s InterPlay community. Liz is also a member of the DC InterPlay Organizing Body.
 
-**Phone:** (301) 772-9340
+**Phone:** (301) 852-3463
 
 **Email:** <lizlescault@gmail.com> and <dcinterplay@gmail.com>
 
