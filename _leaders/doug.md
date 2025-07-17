@@ -1,17 +1,19 @@
 ---
 short_name: doug
 name: Doug Farnum
-position: Life Practice Program Leader
+position: Co-Leads Life Practice Program
 ---
 
-Since retiring, play deprived Douglass works hard at doing nothing.
+Doug finds that InterPlay complements his meditation and Non Violent
+Communication (NVC) practices.
 
-![Doug Farnum](/assets/images/Doug-Farnum.jpg "Doug Farnum"){: style="float: right"}
+<img src="/assets/images/Doug-Farnum.jpg" alt="Doug Farnum" title="Doug Farnum" width="300" style="float: right">
 
-He finds that InterPlay complements his meditation
-and Non Violent Communication (NVC) practices.
-Doug co-leads life practice and men's retreat weekends in Washington DC.
-With more practice he hopes to have fun playing.
+Doug co-leads the Life Practice Program, the Annual Men's Retreat, and the
+Annual Spring Retreat; and is a member of the DC Organizing Body.
+
+Since retiring, play deprived Douglass works hard at doing nothing. With more
+practice, he hopes to have fun playing.
 
 **Email:** <lightdpf-1@yahoo.com>
 

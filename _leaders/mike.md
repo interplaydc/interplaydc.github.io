@@ -4,9 +4,11 @@ name: Mike Perz
 position: Website Administrator
 ---
 
-Mike used to try to gain love and acceptance by following the rules.
+InterPlay is where Mike embraces the discomfort that authenticity can sometimes
+create (for him).
 
-Then when he went to an InterPlay retreat, he noticed that the other
+Mike used to try to gain love and acceptance by following the rules.
+Then, when he went to an InterPlay retreat, he noticed that the other
 participants brought something else to their lives. They were allowing
 themselves to be guided by their bodies. Now when he leads InterPlay forms, he
 seeks to create an environment that allows participants to have whatever
