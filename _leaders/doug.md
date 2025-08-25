@@ -4,10 +4,11 @@ name: Doug Farnum
 position: Co-Leads Life Practice Program
 ---
 
-Doug finds that InterPlay complements his meditation and Non Violent
+Doug finds that InterPlay complements his meditation and Nonviolent
 Communication (NVC) practices.
 
-<img src="/assets/images/Doug-Farnum.jpg" alt="Doug Farnum" title="Doug Farnum" width="300" style="float: right">
+<img src="/assets/images/Doug-Farnum.jpg" alt="Doug Farnum"
+ title="Doug Farnum" width="300" style="float: right">
 
 Doug co-leads the Life Practice Program, the Annual Men's Retreat, and the
 Annual Spring Retreat; and is a member of the DC Organizing Body.
