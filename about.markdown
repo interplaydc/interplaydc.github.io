@@ -44,6 +44,6 @@ comfort level.
 </p>
 
 <p style="text-align: center;">
-InterPlay is a non-denominational group that resists labels and allegiance to
-any particular belief or orientation.
+InterPlay is non-denominational and resists allegiance to any particular belief
+or orientation.
 </p>

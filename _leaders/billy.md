@@ -6,6 +6,8 @@ position:  Co-Founder of InterPlay DC
 
 Billy delights in the power of InterPlay to bring us fully alive.
 
+<!--more-->
+
 ![Billy Amoss](/assets/images/Billy-Amoss.jpg "Billy Amoss"){: style="float: right"}
 
 Billy leads the Annual Men's Retreat and co-leads the Annual Spring

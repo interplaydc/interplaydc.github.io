@@ -6,11 +6,15 @@ website: <a href="https://www.InterPlayNC.org/" target="_blank">InterPlayNC.org<
 ---
 
 As a recovering serious person, I consider InterPlay my 12-step program and my
-life practice for having more ease and grace. I've been InterPlaying for 27
-years and have watched the blooming and spread of InterPlay all over the world
-with gratefulness and delight.
+life practice for having more ease and grace.
 
-![Ginny Going](/assets/images/ggoing.jpg "Ginny Going"){: style="float: right"}
+<!--more-->
+
+<img src="/assets/images/ggoing.jpg" alt="Ginny Going"
+     title="Ginny Going" width="200" style="float: right">
+
+I've been InterPlaying for 27 years and have watched the blooming and spread of
+InterPlay all over the world with gratefulness and delight.
 
 For the past 13 years I've been immersed in the development and growth of the
 Leader Training Program and currently serve as the program coordinator. I love
@@ -25,4 +29,4 @@ Equity and Transformation into all aspects of InterPlay leader training. This is
 truly an exciting and exhilerating time to be part of the world-wide community
 of InterPlay!
 
-**Locale:** Raleigh NC 27603
+**Locale:** Raleigh NC

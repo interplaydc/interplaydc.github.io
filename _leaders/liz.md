@@ -7,6 +7,8 @@ website: <a href="https://LizLescault.com/" target="_blank">LizLescault.com</a>
 
 InterPlay is a growing influence in my way of showing up in the world.
 
+<!--more-->
+
 ![Liz Lescault](/assets/images/Liz-Lescault.jpg "Liz Lescault"){: style="float: right"}
 
 It has informed the ways I teach art, organize and lead. I am also inspired to

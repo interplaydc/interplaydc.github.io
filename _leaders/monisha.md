@@ -8,7 +8,10 @@ website: <a href="https://MonishaMittal.com/" target="_blank">MonishaMittal.com<
 Monisha is grateful to InterPlay for awakening her authenticity and for
 supporting her recovery as an overachiever.
 
-<img src="/assets/images/Monisha_cropped-scaled.webp" alt="Monisha Mittal" title="Monisha Mittal" width="300" style="float: right">
+<!--more-->
+
+<img src="/assets/images/Monisha_cropped-scaled.webp" alt="Monisha Mittal"
+     title="Monisha Mittal" width="300" style="float: right">
 
 Monisha spawned her Poetic Revelations writing series, now named: "The (tiny)
 Voice of Big Love."  Monisha is a Somatic Coach and Play Architect, she holds

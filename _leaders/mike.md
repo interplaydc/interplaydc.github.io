@@ -7,6 +7,8 @@ position: Website Administrator
 InterPlay is where Mike embraces the discomfort that authenticity can sometimes
 create (for him).
 
+<!--more-->
+
 Mike used to try to gain love and acceptance by following the rules.
 Then, when he went to an InterPlay retreat, he noticed that the other
 participants brought something else to their lives. They were allowing
