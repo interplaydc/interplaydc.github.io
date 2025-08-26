@@ -17,7 +17,7 @@ people affected by cancer.
 
 Liz Lescault, a visual artist and sculptor.
 
-Liz co-leads the Annual Spring Retreat and is a member of the DC Organizing
+Liz co-leads DC's Annual Spring Retreat and is a member of the DC Organizing
 Body.
 
 **Phone:** (301) 852-3463

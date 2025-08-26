@@ -14,12 +14,12 @@ private practice. Trained in archetypal depth psychology, she has an abiding
 curiosity in all things hidden below surfaces -- deep roots, bedrock truths,
 neurobiological processes, and ancestral antecedents.
 
-Kate co-leads the Annual Women's Retreat and the Annual Spring Retreat, and is a
+Kate co-leads DC's Annual Women's Retreat and Annual Spring Retreat, and is a
 member of the DC Organizing Body.
 
 She has decades of experience leading workshops, performances,
 and mentoring other InterPlayers. She co-founded The Big Yes Performance Group
-and co-led the InterPlay Life Practice Program in Washington DC.
+and co-led the InterPlay DC Life Practice Program in Washington DC.
 
 **Phone:** (301) 219-1223
 

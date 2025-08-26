@@ -1,7 +1,7 @@
 ---
 short_name: Theresa
 name: Theresa Cunningham
-position: Co-leads Life Practice Program
+position: Co-leads DC's Life Practice Program
 ---
 
 Theresa Cunningham is an award-winning actor, singer, dancer, director, and
@@ -13,6 +13,6 @@ teaching artist who does math for fun.
 A Certified InterPlay Leader, she believes in the power of play as a tool for
 exploration, healing, and community.
 
-She co-leads the Life Practice Program and the Annual Spring Retreat.
+She co-leads DC's Life Practice Program and Annual Spring Retreat.
 
 **Locale:** Rockville MD
