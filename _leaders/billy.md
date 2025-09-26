@@ -1,7 +1,7 @@
 ---
 short_name: billy
 name: Billy Amoss
-position:  Co-Founder of InterPlay DC
+position: Co-Founder of InterPlay DC
 ---
 
 Billy delights in the power of InterPlay to bring us fully alive.

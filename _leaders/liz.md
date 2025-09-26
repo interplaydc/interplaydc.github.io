@@ -2,7 +2,7 @@
 short_name: liz
 name: Liz Lescault
 position: Open Gathering Founder and Coordinator
-website: <a href="https://LizLescault.com/" target="_blank">LizLescault.com</a>
+website: https://LizLescault.com/
 ---
 
 InterPlay is a growing influence in my way of showing up in the world.

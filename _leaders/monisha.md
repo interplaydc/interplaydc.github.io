@@ -2,7 +2,7 @@
 short_name: monisha
 name: Monisha Mittal
 position: Co-leads DC's Life Practice Program
-website: <a href="https://MonishaMittal.com/" target="_blank">MonishaMittal.com</a>
+website: https://MonishaMittal.com/
 ---
 
 Monisha is grateful to InterPlay for awakening her authenticity and for
@@ -16,8 +16,8 @@ supporting her recovery as an overachiever.
 Monisha spawned her Poetic Revelations writing series, now named: "The (tiny)
 Voice of Big Love."  Monisha is a Somatic Coach and Play Architect, she holds
 sacred space for others in one-on-one sessions and courses through her Center
-for Somatic Leadership and Communication.  Monisha also led InterPlay’s
-international Dance Chapel online.  Dance Chapel “brings us together to dance
+for Somatic Leadership and Communication. Monisha also led InterPlay’s
+international Dance Chapel online. Dance Chapel “brings us together to dance
 our prayers in an hour of music, poetry, and indigenous wisdom.”
 
 She co-leads DC's Life Practice Program and Annual Spring Retreat.

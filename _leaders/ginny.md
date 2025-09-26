@@ -1,32 +1,27 @@
 ---
 short_name: ginny
 name: Ginny Going
-position: Founder of InterPlay NC
-website: <a href="https://www.InterPlayNC.org/" target="_blank">InterPlayNC.org</a>
+position: Co Founder of North Carolina InterPlay with Tom Henderson
+website: https://www.InterPlayNC.org/
 ---
+
+Ginny is currently leading and organizing North Carolina InterPlay.
+
+<!--more-->
 
 As a recovering serious person, I consider InterPlay my 12-step program and my
 life practice for having more ease and grace.
 
-<!--more-->
-
 <img src="/assets/images/ggoing.jpg" alt="Ginny Going"
-     title="Ginny Going" width="200" style="float: right">
+title="Ginny Going" width="200" style="float: right">
 
-I've been InterPlaying for 27 years and have watched the blooming and spread of
-InterPlay all over the world with gratefulness and delight.
+I’ve been InterPlaying for 30+ years and have taken part in the blooming and
+spread of InterPlay all over the world with gratefulness and delight. I love
+offering people the body-wise tools of InterPlay and seeing them embody their
+stories with fullness and grace.
 
-For the past 13 years I've been immersed in the development and growth of the
-Leader Training Program and currently serve as the program coordinator. I love
-offering people the "big body" tools of InterPlay for telling their stories,
-especially people on the margins of our communities. I am also passionate about
-embodied spirituality, engaging people in prayer and worship forms that include
-and honor the body. It has been an amazing experience to participate in and
-teach InterPlay in many places around the world.
-
-Currently the Leader Training Program is being reshaped to integrate Racial
-Equity and Transformation into all aspects of InterPlay leader training. This is
-truly an exciting and exhilerating time to be part of the world-wide community
-of InterPlay!
+Co-leader of North Carolina Untensive retreats, the DC Women’s Retreat, and
+performance events. I organize international retreats and am currently
+collaborating on a potential InterPlay adventure to France.
 
 **Locale:** Raleigh NC

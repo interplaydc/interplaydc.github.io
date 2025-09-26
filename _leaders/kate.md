@@ -2,7 +2,7 @@
 short_name: kate
 name: Kate Amoss
 position: Co-Founder of InterPlay DC
-website: <a href="https://www.CandlewoodCounseling.com/" target="_blank">www.CandlewoodCounseling.com</a>
+website: https://www.CandlewoodCounseling.com/
 ---
 
 For Kate, InterPlay has offered the best toolbox of forms and practices with
