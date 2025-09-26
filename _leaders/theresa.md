@@ -1,5 +1,5 @@
 ---
-short_name: Theresa
+short_name: theresa
 name: Theresa Cunningham
 position: Co-leads DC's Life Practice Program
 ---

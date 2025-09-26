@@ -1,7 +1,7 @@
 ---
 short_name: mike
 name: Mike Perz
-position: Website Administrator
+position: Maintains Website
 ---
 
 InterPlay is where Mike embraces the discomfort that authenticity can sometimes
