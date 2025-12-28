@@ -1,6 +1,6 @@
 ---
 sub_title: Secrets of InterPlay
-leaders: [ theresa, monisha ]
+leaders: [ theresa, monisha, maryellen ]
 time: 7pm to Feb 1, 2:00pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
