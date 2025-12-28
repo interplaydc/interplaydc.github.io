@@ -1,8 +1,7 @@
 ---
 sub_title: Secrets of InterPlay
-leader: Billy Amoss, Kate Amoss, Douglass Farnum, Monisha Mittal, and Robin Carnes
 leaders: [ theresa, monisha ]
-time: 7pm to Oct 1, 1:30pm
+time: 7pm to Feb 1, 2:00pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
 
