@@ -5,22 +5,25 @@ position: Open Gathering Founder and Coordinator
 website: https://LizLescault.com/
 ---
 
-InterPlay is a growing influence in my way of showing up in the world.
+InterPlay continues to be a growing influence in the way I show up in the 
+world. It informs how I interact and communicate with others, teach art, and 
+lead events.
 
 <!--more-->
 
 ![Liz Lescault](/assets/images/Liz-Lescault.jpg "Liz Lescault"){: style="float: right"}
 
-It has informed the ways I teach art, organize and lead. I am also inspired to
-bring InterPlay to the wider community through my volunteer work. My volunteer
-work includes working with elders with cognitive disabilities at Iona Senior
-Center and at Smith Center and the Healing Arts, which provides support for
-people affected by cancer.
+I founded the DC Open Gathering and continue to coordinate the Open Gathering 
+for the DC region’s InterPlay community. I am also a member of the DC InterPlay 
+Organizing Body.
 
-Liz Lescault, a visual artist and sculptor.
+I am also inspired to bring InterPlay to the wider community through my 
+volunteer work.  I offer online art experiences at Smith Center and the Healing 
+Arts, a non-profit providing support for people affected by cancer. My 
+volunteer work also includes working with elders with cognitive disabilities.
 
-Liz co-leads DC's Annual Spring Retreat and is a member of the DC Organizing
-Body.
+I am a visual artist and sculptor, who has practiced, exhibited, and taught art 
+for over 40 years.
 
 **Phone:** (301) 852-3463
 
