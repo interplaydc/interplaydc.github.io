@@ -2,7 +2,7 @@
 sub_title: Action Theater
 leaders: [ rachel ]
 time: 3 hours
-location: Cabin John MD
+location: 11 Froude Circle, Cabin John MD 20818
 ---
 
 Rachel will be leading 3 hours of Action Theater in Cabin John MD on Sunday for
