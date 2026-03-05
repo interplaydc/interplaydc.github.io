@@ -1,7 +1,7 @@
 ---
 sub_title: Action Theater
 leaders: [ rachel ]
-time: 3 hours
+time: 10am - 1pm
 location: 11 Froude Circle, Cabin John MD 20818
 ---
 
@@ -13,7 +13,7 @@ those that want more.
 You can sample Rachel's Action Theater work on Tuesdays from 6:30pm to 7:45pm
 before or after she comes by emailing her at <rachelcohen@racoco.org>.
 
-Doug says of Action Theater it is like the next step after InterPlay.
-A potentially deeper dive into the wisdom of the body.
+Doug says of Action Theater, "It is like the next step after InterPlay. A 
+potentially deeper dive into the wisdom of the body."
 
-Dana says "After doing Action Theater I feel present and awake!"
+Dana says, "After doing Action Theater, I feel present and awake!"
