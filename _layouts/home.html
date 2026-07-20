@@ -19,17 +19,20 @@ layout: default
           {{ event.date | date: date_format }},
           {{ event.time }} ({{ event.title | escape }})
         </span>
+        <p>{{ event.location }}</p>
         <h3>
           <a href="{{ event.url | relative_url }}">
             {{ event.sub_title | escape }}
           </a>
         </h3>
         <h4>
+          {%- if event.leaders -%}
           led by
           {% for short_name in event.leaders %}
           {% assign leader = site.leaders | where: 'short_name', short_name | first %}
           <a href="{{ leader.url }}">{{ leader.name }}</a>
           {% endfor %}
+          {%- endif -%}
         </h4>
         {{ event.excerpt }}
       </li>

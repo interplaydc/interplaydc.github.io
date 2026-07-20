@@ -12,15 +12,19 @@ title: Past Events
       {{ event.date | date: date_format }},
       {{ event.time }} ({{ event.title }})
     </span>
+    <p>{{ event.location }}</p>
     <h2>
       <a href="{{ event.url }}">{{ event.sub_title }}</a>
     </h2>
     <h3>
+      {%- if event.leaders -%}
       led by
       {% for short_name in event.leaders %}
-      {% assign leader = site.leaders | where: 'short_name', short_name | first %}
+      {% assign leader
+      = site.leaders | where: 'short_name', short_name | first %}
       <a href="{{ leader.url }}">{{ leader.name }}</a>
       {% endfor %}
+      {%- endif -%}
     </h3>
     {{ event.excerpt }}
   </li>
