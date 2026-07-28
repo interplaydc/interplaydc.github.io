@@ -8,6 +8,7 @@ layout: default
   led by
   {% for short_name in page.leaders %}
   {% assign leader = site.leaders | where: 'short_name', short_name | first %}
+  {% unless forloop.first %}, {% endunless %}
   <a href="{{ leader.url }}">{{ leader.name }}</a>
   {% endfor %}
   {%- endif -%}
