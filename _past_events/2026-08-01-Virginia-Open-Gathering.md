@@ -9,14 +9,12 @@ $25 cash, check<br>
 $15 JCPC members<br>
 No need to register, just come and sign in.
 
+<!--more-->
+
 If you missed David Willems Watercolor Exhibition,
-his paintings will hang for about 2 months.
+his paintings will hang for about 2 months.  
 So come 8/1 to the Virginia Open Gathering or
 Sundays after Church Service
 where they can be viewed 11am – 12pm.<br>
 The closing show will be September 12, at 12:30pm
 after the Virginia Open Gathering.
-
-<!--more-->
-
-

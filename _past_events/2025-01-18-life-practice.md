@@ -1,6 +1,6 @@
 ---
 sub_title: Life Practice
-leader: Monisha Mittal, Douglass Farnum, and Theresa Cunningham
+leaders: [monisha, doug, theresa]
 time: 10am to 5:30pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012"
 ---
