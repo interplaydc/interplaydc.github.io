@@ -1,21 +1,19 @@
 ---
-sub_title: Life Practice
+sub_title: In-Person/Online 2026–27, October 15th – February 13th
 leaders: [theresa, doug, monisha]
 time: 6:30pm – Feb 13, 5:30pm
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012 (and online)"
 ---
 
+**![][image1]**
+
+<!--more-->
+
 **CHANGE YOUR LIFE\! CHANGE YOUR WORLD\!**
 
 **InterPlay Life Practice Program DC**
 
-**In-Person/Online 2026–27: October 15th – February 13th**
-
 *Unlock the Wisdom of Your Body*
-
-**![][image1]**
-
-<!--more-->
 
 The InterPlay Life Practice Program is an active, creative way to **change your life and change your world.** It is an opportunity to immerse yourself in the system of InterPlay—ideas and practices that can move you from where you are to where you would like to be. ** T**hrough movement, story, sound, and stillness, discover creative ways to change what you want to change in your life.
 

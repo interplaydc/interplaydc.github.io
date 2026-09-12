@@ -20,11 +20,7 @@ layout: default
           {{ event.time }} ({{ event.title | escape }})
         </span>
         <p>{{ event.location }}</p>
-        <h3>
-          <a href="{{ event.url | relative_url }}">
-            {{ event.sub_title | escape }}
-          </a>
-        </h3>
+        <h3>{{ event.sub_title | escape }}</h3>
         <h4>
           {%- if event.leaders -%}
           led by
@@ -36,7 +32,11 @@ layout: default
           {%- endif -%}
         </h4>
         {{ event.excerpt }}
-        <br>
+        {% if event.content.size > event.excerpt.size %}
+        <p>
+          <a href="{{ event.url | relative_url }}">click for more details...</a>
+        </p>
+        {% endif %}
       </li>
     {%- endfor -%}
   </ul>

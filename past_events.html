@@ -13,9 +13,7 @@ title: Past Events
       {{ event.time }} ({{ event.title }})
     </span>
     <p>{{ event.location }}</p>
-    <h2>
-      <a href="{{ event.url }}">{{ event.sub_title }}</a>
-    </h2>
+    <h2>{{ event.sub_title }}</h2>
     <h3>
       {%- if event.leaders -%}
       led by
@@ -28,6 +26,11 @@ title: Past Events
       {%- endif -%}
     </h3>
     {{ event.excerpt }}
+    {% if event.content.size > event.excerpt.size %}
+    <p>
+      <a href="{{ event.url | relative_url }}">click for more details...</a>
+    </p>
+    {% endif %}
   </li>
   {%- endfor -%}
 </ul>
