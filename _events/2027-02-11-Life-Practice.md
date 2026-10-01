@@ -1,7 +1,7 @@
 ---
-sub_title: In-Person/Online 2026–27, October 15th – February 13th
+sub_title: In-Person/Online 2027, February 11th - ?
 leaders: [theresa, doug, monisha]
-time: 6:30pm – Feb 13, 5:30pm
+time: 6:30pm - ?
 location: "Seekers Church, 276 Carroll St NW, Washington DC 20012 (and online)"
 ---
 
@@ -38,17 +38,13 @@ This year’s program is offered over five months. The bulk of instruction occur
 ***Schedule (all times ET)***
 
 **Opening Weekend (in-person):**  
-Thursday, October 15th (6:30–9 pm)  
-Friday, October 16th (9:30–5:30pm)  
-Saturday, October 17th (9:30–5:30 pm)
-
-**5 Online Sessions (10 am–12 pm):**  
-Saturdays 11/7, 11/21, 12/5, 1/9, 1/23
-
-**Closing Weekend** (in-person):  
 Thursday, February 11th (6:30–9 pm)  
 Friday, February 12th (9:30–5:30pm)  
 Saturday, February 13th (9:30–5:30pm)
+
+**5 Online Sessions (10 am–12 pm):**  
+
+**Closing Weekend** (in-person):  
 
 ***Cost:*** Tuition for this program is priced into three tiers according to your ability to pay. In addition, participants are required to pay a facility fee of $99.
 
